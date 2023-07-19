@@ -71,6 +71,7 @@ export default function LoginPage(){
             rounded-lg mb-4 focus:outline-none 
             focus:border-gray-600">Login here</button>
             <Link href="/signup">Visit Signup Page</Link>
+            <Link href="/forgotpassword">Forgot Password</Link>
         </div>
     )
 }
